@@ -1,0 +1,38 @@
+h1{
+  text-align: center;
+  text-decoration: dotted;
+  text-size-adjust: 70;
+  color: blueviolet;
+  text-decoration: solid;
+  text-decoration-color: blue;
+  padding: 80;
+  text-rendering: inherit;
+};
+p{
+  
+  text-decoration: blue;
+  text-decoration-color: aqua;
+  color: blue;
+  padding: 0;
+  margin-top: 70;
+  text-align: center;
+  margin-bottom: 70;
+
+  text-shadow: 0cqb;
+};
+ button{
+  text-align: center;
+  background-color: brown;
+  column-gap: 60;
+  text-decoration: greenyellow;
+  align-items: center;
+  color: pink;
+
+  
+ };
+
+ body{
+  text-align: center;
+  background-color: aqua;
+  color: aqua;
+ };
